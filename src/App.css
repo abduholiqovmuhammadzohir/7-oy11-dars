@@ -1,0 +1,27 @@
+.container{
+  max-width: 600px;
+  width: 100%;
+  margin: auto;
+  border-radius: 15px;
+  padding: 30px;
+  background-color: rgb(215, 230, 230);
+}
+
+.task{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(239, 239, 238);
+  padding:15px;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.container .add{
+  margin-top: 20px;
+  border: none;
+  padding: 6px;
+  border-radius: 5px;
+  background-color: #0D6EFD;
+}
